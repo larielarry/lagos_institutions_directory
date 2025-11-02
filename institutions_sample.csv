@@ -1,0 +1,18 @@
+name,category,ownership,lga,courses,tuition_avg,accreditation_score,student_population
+University of Lagos (UNILAG),university,federal,Yaba,Computer Science|Mass Communication|Business Administration,450000,92,45000
+Lagos State University (LASU),university,state,Ojo,Computer Science|Nursing|Political Science,300000,88,35000
+Yaba College of Technology,polytechnic,federal,Yaba,Computer Technology|Statistics|Fashion Design,180000,80,22000
+Lagos State Polytechnic (LASPOTECH),polytechnic,state,Ikorodu,Computer Engineering|Accountancy|Marketing,160000,78,18000
+Adeniran Ogunsanya College of Education,college,state,Ojo,Education (Math)|Education (Biology)|Primary Education,120000,75,12000
+Augustine University,university,private,Epe,Computer Science|Biochemistry|Economics,650000,70,5000
+Pan-Atlantic University,university,private,Ibeju-Lekki,Computer Science|Mass Communication|Business Administration,900000,85,6000
+Federal College of Education (Technical) Akoka,college,federal,Yaba,Education (Physics)|Technical Education|Home Economics,100000,73,9000
+name,category,ownership,lga,courses,tuition_avg,accreditation_score,student_population
+University of Lagos (UNILAG),university,federal,Yaba,Computer Science|Mass Communication|Business Administration,450000,92,45000
+Lagos State University (LASU),university,state,Ojo,Computer Science|Nursing|Political Science,300000,88,35000
+Yaba College of Technology,polytechnic,federal,Yaba,Computer Technology|Statistics|Fashion Design,180000,80,22000
+Lagos State Polytechnic (LASPOTECH),polytechnic,state,Ikorodu,Computer Engineering|Accountancy|Marketing,160000,78,18000
+Adeniran Ogunsanya College of Education,college,state,Ojo,Education (Math)|Education (Biology)|Primary Education,120000,75,12000
+Augustine University,university,private,Epe,Computer Science|Biochemistry|Economics,650000,70,5000
+Pan-Atlantic University,university,private,Ibeju-Lekki,Computer Science|Mass Communication|Business Administration,900000,85,6000
+Federal College of Education (Technical) Akoka,college,federal,Yaba,Education (Physics)|Technical Education|Home Economics,100000,73,9000
